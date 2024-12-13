@@ -1,0 +1,28 @@
+#Enable/Disable the Various Tools included in the Mod
+[tools]
+	#Hammers mine in a 3x3 radius, made of every single tool material
+	enable_hammers = true
+	#Sickles mass harvest leaf and tall-grass blocks, their range increases the higher the tool level
+	enable_sickles = true
+	#Material variants for iron shears (Wood-Netherite)
+	enable_shears = true
+	#The original item in the mod! Paxels are a tool able to mine all blocks that an Axe, Pickaxe and Shovel Can
+	enable_paxels = true
+	#Soulcopper items currently present in instrumentus is the Soul-Infused Pickaxe, which places light blocks on right click
+	enable_soulcopper = true
+	#RF-Powered tools made of diamonds, emeralds and redstone. This will also disable carbon rods.
+	enable_energized = true
+	#Knives harvest plant fiber from tall grass, which can be used to make string. Disables Knives as well as plant fiber.
+	enable_knives = true
+	#Copper Tools that are slower than iron tools, but have three times the durability
+	enable_copper = true
+	#Brushes made of every tool material, including Instrumentus ones - their speed stays the same, however they have different durabilities
+	enable_brushes = true
+	#Excavators are 3x3 shovels that can mine a bunch of dirt!
+	enable_excavators = true
+	#Enable the Kiln, which is a furnace variant that can be used to smelt the miscellaneous items that the Blast Furnace and Smoker do not smelt.
+	enable_firing = true
+	#Enable the Tools of the Trials - Items and blocks that are crafted using items and blocks from the Trial Chambers, and following a theme around the Breeze
+	enable_trial = true
+	#Category for experimental features that are not yet fully tested, complete, or may be removed in the future. Use at your own risk!
+	enable_experimental = false
